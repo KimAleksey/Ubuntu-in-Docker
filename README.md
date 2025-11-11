@@ -34,4 +34,4 @@ docker exec -it my-linux bash
 exit
 или
 Ctrl + D
-```
+
